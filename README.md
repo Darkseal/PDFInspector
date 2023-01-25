@@ -1,5 +1,5 @@
 # PDFInspector
-A quick and simple way (with free code sample) to check if a PDF file contains images and/or text using Syncfusion PDF class library for .NET
+A quick and simple way to check if a PDF file contains images and/or text using Syncfusion PDF class library for .NET
 
 ## Introduction
 If you often work with PDF files, you've probably already heard of Syncfusion Essential Studio, a .NET-based software product providing solutions to most of the complex problems faced during application development. Among the many components available the product includes a neat PDF framework, a feature-rich .NET PDF class library developed with 100% managed C# code that can be used to create, read and write PDF files using Windows Forms, WPF, ASP.NET Web Forms, ASP.NET MVC, ASP.NET Core, Blazor, UWP, Xamarin, Flutter applications and Unity platform without any external dependency (no Adobe Acrobat required).
