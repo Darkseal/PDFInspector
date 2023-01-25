@@ -2,7 +2,6 @@
 using Syncfusion.Pdf.Exporting;
 using Syncfusion.Pdf.Parsing;
 
-//Register Syncfusion license
 Syncfusion.Licensing.SyncfusionLicenseProvider
     .RegisterLicense("<LICENSE-KEY>"); // TODO: Insert your license key here
 
